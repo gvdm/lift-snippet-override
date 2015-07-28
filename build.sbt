@@ -1,6 +1,6 @@
 organization := "me.gvdm"
 
-name := "Basic Lift"
+name := "Lift snippet override"
 
 version := "0.1"
 
